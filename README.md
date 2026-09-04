@@ -21,9 +21,19 @@
 ## 🧩 方法架構
 ![系統架構](figure/AI_Complaint.png)
 
-## 🔧 使用模型
+## 🔧 使用技術與模型
+1.Hugging Face上的中文情緒分析模型: 
 京東商品評論情緒分類: 使用了 5 個中文文字分類數據集。
 JD full、JD binary、大眾點評數據集由不同情感極性的使用者評論組成。
 鳳凰網和中國新聞網由不同主題類別的新聞文章的第一段組成。
 它們由 GlyphLinks to an external site. 專案收集......
 
+2.開發語言:Python
+Groq API：高速 LLM 推論服務，作為回應生成核心
+OpenCC：繁體中文 ↔ 簡體中文轉換
+
+3.UI: Gradio：快速建構互動式 Web 介面，讓使用者輸入客訴文本並即時查看回應結果
+
+## 📊 成果展示
+![負面情緒](figure/負面情緒.png)
+![正面情緒](figure/正面情緒.png)
