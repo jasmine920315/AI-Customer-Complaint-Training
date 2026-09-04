@@ -2,7 +2,9 @@
 生程式AI期末專案-AI客訴應對回應訓練系統
 
 # 展示影片
+[![系統展示影片](figure/aicomplaint.png)](https://youtu.be/udOOAwTAau8?si=P7q6VvStJlyqwp0H)
 
+# Colab連結
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13kbzUQAentw_HnpS2CGrzJCnwNIaIglR?usp=sharing))
 
 
