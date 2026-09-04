@@ -12,4 +12,4 @@
 4.應用於客服新人訓練、自我學習與職場溝通輔導
 
 ## 🧩 方法架構
-![系統架構](figures/AI_Conplain.png)
+![系統架構](figures/AI_Complaint.png)
