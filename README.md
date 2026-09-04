@@ -3,7 +3,7 @@
 
 # 展示影片
 
-[![Open In Colab!](https://colab.research.google.com/drive/13kbzUQAentw_HnpS2CGrzJCnwNIaIglR?usp=sharing) ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13kbzUQAentw_HnpS2CGrzJCnwNIaIglR?usp=sharing))
 
 
 ## 📌 專案介紹
